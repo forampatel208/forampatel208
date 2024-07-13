@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @forampatel208
+- 👋 Hi, I’m Pansuriya Foram Rasikbhai
 - 👀 I’m interested in Coding and AI 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
