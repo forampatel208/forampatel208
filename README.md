@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pansuriya Foram Rasikbhai
 - 👀 I’m interested in Coding and AI 
-- 🌱 I’m currently undergraduate student at UCE OU
+- 🌱 I’m currently undergraduate student at IIT Madras and UCE OU
 - 💞️ I’m looking to collaborate on web development 
